@@ -51,3 +51,5 @@ Sigue estos pasos:
 ### ¡Listo, ahora eres un@ LatinXpert!
 
 **Al ingresar a la organización, foros, cursos, eventos y actividades derivadas de la comunidad, estás aceptando el código de conducta. El cuál puedes consultar [aquí](https://github.com/LatinXperts/.github/blob/main/CodeOfConduct.md)**
+
+ESSA É UMA ALTERAÇÃO
